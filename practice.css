@@ -1,0 +1,77 @@
+/*/////////////////Sell Your Car */
+ 
+        
+        h1 {
+            font-size: 2.5rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        
+        .subheading {
+            font-size: 1.5rem;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+        }
+        
+        .highlight {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        
+        hr {
+            border: 0;
+            height: 1px;
+            background-color: #ddd;
+            margin: 30px 0;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        
+        h3 {
+            font-size: 1.5rem;
+            color: #3498db;
+            margin-bottom: 15px;
+        }
+        
+        h4 {
+            font-size: 1.2rem;
+            color: #16a085;
+            margin-bottom: 15px;
+        }
+        
+        .benefits-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 40px;
+        }
+        
+        .benefit-item {
+            flex-basis: 30%;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .benefit-item strong {
+            font-size: 3rem;
+            color: #e74c3c;
+            display: block;
+            margin-bottom: 10px;
+        }
+        
+        .benefit-item span {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .trust-badge {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
